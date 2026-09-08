@@ -1,0 +1,5 @@
+1,Matematica,Popescu Ion
+2,Informatica,Ionescu Maria
+3,Fizica,Georgescu Andrei
+4,Programare Python,Stan Vlad
+5,Algoritmi,Marinescu Elena
